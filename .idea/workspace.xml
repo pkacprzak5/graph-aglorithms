@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ce5b648c-735d-4287-a502-9dab3b81bdc4" name="Changes" comment="" />
+    <list default="true" id="ce5b648c-735d-4287-a502-9dab3b81bdc4" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/lab3/zad1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab3/zad2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -53,6 +57,12 @@
       <workItem from="1728298594838" duration="288000" />
       <workItem from="1728307825017" duration="1194000" />
       <workItem from="1728917520803" duration="42000" />
+      <workItem from="1729512147287" duration="49000" />
+      <workItem from="1729769495473" duration="57000" />
+      <workItem from="1730716540141" duration="4800000" />
+      <workItem from="1730995367202" duration="15000" />
+      <workItem from="1731926159819" duration="4835000" />
+      <workItem from="1732194981275" duration="71000" />
     </task>
     <servers />
   </component>
@@ -60,6 +70,8 @@
     <option name="version" value="3" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/graph_aglorithms$zad2.coverage" NAME="zad2 Coverage Results" MODIFIED="1731930793637" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lab3" />
+    <SUITE FILE_PATH="coverage/graph_aglorithms$zad1.coverage" NAME="zad1 Coverage Results" MODIFIED="1730721038403" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lab3" />
     <SUITE FILE_PATH="coverage/graph_aglorithms$test.coverage" NAME="test Coverage Results" MODIFIED="1728302571487" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
